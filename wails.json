@@ -1,0 +1,12 @@
+{
+  "name": "mikoto",
+  "outputfilename": "mikoto",
+  "assetdir": "frontend/dist",
+  "wailsjsdir": "frontend/src",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "author": {
+    "name": "WhitePaper233",
+    "email": "1423634265@qq.com"
+  }
+}
